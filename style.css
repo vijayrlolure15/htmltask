@@ -469,7 +469,7 @@ progress[value]::-moz-progress-bar {
 /*************/
 
 #back{
-background-image: url("bg.jpg");
+background-image: url("/bg.jpg");
 height: auto;
 padding-top:300px ;
 background-position: center;
